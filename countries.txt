@@ -3,3 +3,5 @@ canada
 uk
 france
 japan
+china
+pakistan

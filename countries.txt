@@ -1,3 +1,5 @@
 usa
 canada
 uk
+france
+japan
